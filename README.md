@@ -1,2 +1,1 @@
-# tughcraft
-minecraft pls no dmca
+# tughcraft - the official tughcraft launcher
